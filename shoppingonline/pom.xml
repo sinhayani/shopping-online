@@ -15,6 +15,14 @@
 
 
 	<dependencies>
+	
+		<!--  Link Backend project -->
+		<dependency>
+			<groupId>net.sonali</groupId>
+			<artifactId>shoppingonlinebackend</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		
+		</dependency>
 
 		<!-- Java EE API -->
 
